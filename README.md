@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bmleguizamon" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F872%2F50%2Fpng-transparent-computer-icons-social-media-logo-twitter-social-media-blue-logo-social-media-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-zeqfu&tbnid=2KcWQC3Wk9px6M&vet=12ahUKEwie-YuA9t_yAhWegKQKHU2KD-8QMygEegUIARC1AQ..i&docid=Pjw_aNJh7ww9OM&w=360&h=360&q=icono%20twitter%20png&ved=2ahUKEwie-YuA9t_yAhWegKQKHU2KD-8QMygEegUIARC1AQ" alt="twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bruno-leguizamon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bruno-leguizamon" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fe%2Fe7%2FInstagram_logo_2016.svg%2F768px-Instagram_logo_2016.svg.png&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AInstagram_logo_2016.svg&tbnid=lXg6-SsqGDCdmM&vet=12ahUKEwjqvMPh9t_yAhUI36QKHYHnBiAQMygAegUIARDQAQ..i&docid=BlhHJijznkz2wM&w=768&h=768&itg=1&q=instagram&hl=en&ved=2ahUKEwjqvMPh9t_yAhUI36QKHYHnBiAQMygAegUIARDQAQ" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/bmleguizamon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
