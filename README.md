@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bruno Leguizamon</h1>
-<h3 align="center">A passionate Web developer from Argentina</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 - 🌱 I’m currently learning **React and Django**
 
-- 👨‍💻 All of my projects are available at [www.brunomleguizamon.com.ar](www.brunomleguizamon.com.ar)
+- 👨‍💻 All of my projects are available at [https://www.brunomleguizamon.com.ar](https://www.brunomleguizamon.com.ar)
 
 - 📫 How to reach me **brunomleguizamon@gmail.com**
 
