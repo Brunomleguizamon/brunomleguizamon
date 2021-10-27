@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Django**
 
-- 👨‍💻 All of my projects are available at [https://www.brunomleguizamon.com.ar](https://www.brunomleguizamon.com.ar)
+- 👨‍💻 All of my projects are available at [https://www.brunomleguizamon.com.ar](www.brunomleguizamon.com.ar)
 
 - 📫 How to reach me **brunomleguizamon@gmail.com**
 
